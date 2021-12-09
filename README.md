@@ -4,15 +4,16 @@
 
 ### Always Jump:
 - **Infinite Jump** - Jump to your heart's content
+- **Zero Gravity** - Disables Gravity Physics
 
 ## Utility
 
 ### Quality of Life:
 - ~~**Disable Chairs** - Disables Chairs in World~~
 - **Disable Pickups** - Disables Pickups in World
-- **Disable Video** - Disables SDK2 & SDK3 Video Players
 - **Disable Pedestals** - Disables Avatar Pedestals
 - **Disable Processing** - Disables Post Processing
+- **Disable Video** - Disables SDK2 & SDK3 Video Players
 
 
 ### Objects:
