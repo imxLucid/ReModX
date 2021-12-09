@@ -15,10 +15,6 @@
 - **Disable Processing** - Disables Post Processing (Local)
 - **Disable Video** - Disables SDK2 & SDK3 Video Players (Local)
 
-
-### Objects:
-- **Find Pickups** - Dump World Pickup count & current owners
-
 ### Spoofing:
 - **Randomize Ping/FPS** - Randomizes (Spoofs) Ping/FPS
 
