@@ -9,11 +9,11 @@
 ## Utility
 
 ### Quality of Life:
-- ~~**Disable Chairs** - Disables Chairs in World~~
-- **Disable Pickups** - Disables Pickups in World
-- **Disable Pedestals** - Disables Avatar Pedestals
-- **Disable Processing** - Disables Post Processing
-- **Disable Video** - Disables SDK2 & SDK3 Video Players
+- ~~**Disable Chairs** - Disables Chairs in World (Local)~~
+- **Disable Pickups** - Disables Pickups in World (Local)
+- **Disable Pedestals** - Disables Avatar Pedestals (Local)
+- **Disable Processing** - Disables Post Processing (Local)
+- **Disable Video** - Disables SDK2 & SDK3 Video Players (Local)
 
 
 ### Objects:
