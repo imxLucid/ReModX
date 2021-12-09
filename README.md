@@ -21,9 +21,6 @@
 ### Spoofing:
 - **Randomize Ping/FPS** - Randomizes (Spoofs) Ping/FPS
 
-### Debug
-- **World Info** - Dumps world details to console
-
 ## Known Issues:
 
 - Disable PostProcessing isn't persistent when joining a new world
