@@ -14,6 +14,7 @@
 - **Disable Pedestals** - Disables Avatar Pedestals (Local)
 - **Disable Processing** - Disables Post Processing (Local)
 - **Disable Video** - Disables SDK2 & SDK3 Video Players (Local)
+- **Disable Pens** Disables Pens and Writing (Local)
 
 ### Objects:
 - **Yeet Objects** - Throw Objects with Force
@@ -24,4 +25,3 @@
 ## Known Issues:
 
 ## To Do
-- Disable Pens
