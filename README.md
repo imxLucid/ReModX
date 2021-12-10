@@ -21,8 +21,8 @@
 ### Spoofing:
 - **Randomize Ping/FPS** - Randomizes (Spoofs) Ping/FPS
 
-## Known Issues:
-*None*
-
 ## To Do
 - Disable Pens/Clean Room
+
+## Known Issues:
+- *None*
