@@ -19,10 +19,9 @@
 - **Yeet Objects** - Throw Objects with Force
 
 ### Spoofing:
-- **Randomize Ping/FPS** - Randomizes (Spoofs) Ping/FPS
-
-## To Do
-- Disable Pens/Clean Room
+- **Randomize Ping/FPS** - Randomizes Ping/FPS
 
 ## Known Issues:
-- *None*
+
+## To Do
+- Disable Pens
