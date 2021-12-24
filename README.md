@@ -1,4 +1,4 @@
-# ReModX - A ReMod Addon
+# ReMod eXtended - A ReMod Addon
 ![Pepega](https://raw.githubusercontent.com/imxLucid/ReVRC/main/pepega.png)
 ## Movement
 
