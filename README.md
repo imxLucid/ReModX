@@ -4,7 +4,7 @@
 
 ### Always Jump:
 - **Infinite Jump** - Jump to your heart's content
-- **Low Gravity** - Disables Gravity Physics
+- **Low Gravity** - Lowers Gravity Physics
 
 ## Utility
 
