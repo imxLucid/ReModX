@@ -1,5 +1,5 @@
 # ReModX - A ReMod Addon
-![Pepega](https://raw.githubusercontent.com/imxLucid/ReModX/main/pepega.png)
+![Pepega](https://raw.githubusercontent.com/imxLucid/ReModX/main/Resources/pepega.png)
 ## Movement
 
 ### Always Jump:
