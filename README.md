@@ -13,7 +13,7 @@
 - **Disable Video** - Disables SDK2 & SDK3 Video Players (Local)
 - **Randomize Ping/FPS** - Randomizes Ping/FPS
 - **Join Notifier** - Basic Join/Leave Notifications
-- **Custom Loading Music ** - Found at ReMod/LoadingMusic.ogg
+- **Custom Loading Music** - Found at ReMod/LoadingMusic.ogg
 
 ## Known Issues:
 - Spoofing causes Movement/IK Delay - No plan to fix
