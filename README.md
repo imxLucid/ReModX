@@ -8,6 +8,9 @@
 
 ## Utility
 
+### Quality of Life:
+- ** Custom Loading Music - Enabled via ReMod/LoadingMusic.ogg
+
 ### Objects:
 - **Reset Portals** - Resets Portal Timers (30 Seconds)
 
@@ -23,11 +26,8 @@
 ### Spoofing:
 - **Randomize Ping/FPS** - Randomizes Ping/FPS
 
-### Other:
-- ** Custom Loading Music - Enabled via ReMod/LoadingMusic.ogg
-
 ## Known Issues:
-Spoofing likely causes IK Desync - No plan to fix
+Spoofing causes Movement/IK Delay - No plan to fix
 
 ## To Do
-- **Join Notifier** - Join/Leave Notifications
+- **Join Notifier** - Basic Join/Leave Notifications
