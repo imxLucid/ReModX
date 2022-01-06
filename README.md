@@ -27,7 +27,7 @@
 - **Randomize Ping/FPS** - Randomizes Ping/FPS
 
 ## Known Issues:
-Spoofing causes Movement/IK Delay - No plan to fix
+- Spoofing causes Movement/IK Delay - No plan to fix
 
 ## To Do
 - **Join Notifier** - Basic Join/Leave Notifications
