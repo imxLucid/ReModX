@@ -32,7 +32,7 @@
 - **Disable Video** - Disables SDK2 & SDK3 Video Players (Local)
 
 ## Known Issues:
-- Spoofing causes Movement/IK Delay - No plan to fix
+- **Spoofing causes Movement/IK Delay** - Not Fixable
 
 ## To Do
 - **Join/Leave Notifier Improvement**
