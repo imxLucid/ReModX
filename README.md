@@ -18,7 +18,8 @@
 
 ## Player Notifications
 - **Join Notifier** - Basic Join/Leave Notifications
-- **Friends Only** - Join/Leave Notifications For Friends Only
+- **Public Lobbies** - Toggle Notifications For Public Lobbies
+- **Friends Only** - Toggle Notifications For Friends Only
 - **Notification Sounds** - Not Implemented
 - **Text Position** - Adjust Notification Text Position
 
