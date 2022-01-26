@@ -36,6 +36,6 @@
 - **Spoofing causes Movement/IK Delay** - Not Fixable
 
 ## To Do
-###Join/Leave Notifier Improvement
+### Join/Leave Notifier Improvement
 - **Notification Sounds**
 - **Notification Text Improvements**
