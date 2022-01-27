@@ -1,5 +1,5 @@
 # ReModX - A ReMod Addon
-![Pepega](https://raw.githubusercontent.com/imxLucid/ReModX/main/Resources/pepega.png)
+![ReModX](https://github.com/imxLucid/ReModX/raw/main/Resources/ReModX.png)
 
 ## Utilities
 ### Core
