@@ -12,7 +12,7 @@
 - **Reset Portals** - Resets Portal Timers (30 Seconds)
 
 ## Objects
-- **Object Info** - Prints Pickup Details To Console
+- **Object Info** - Prints Pickup Ownership Details To Console
 - **Respawn Objects** - Respawns World Objects
 - **Yeet Info** - Throw Objects with Force
 
