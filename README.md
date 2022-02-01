@@ -36,10 +36,10 @@
 ## Known Issues:
 - **Spoofing causes Movement/IK Delay** - Not Fixable
 
-## To Do
+## To Do:
 ### Join/Leave Notifier Improvement
 - **Notification Sounds**
 - **Notification Text Improvements**
 
 ## Change Log:
-1.4.3 - Minor updates to Join Notifier Handling
+- **1.4.3 - Minor updates to Join Notifier Handling**
