@@ -3,8 +3,6 @@
 
 ## Utilities
 ### Core
-- **Infinite Jump** - Jump to your Heart's Content
-- **Low Gravity** - Lowers Gravity Physics
 - **Randomize Ping/FPS** - Randomizes Ping/FPS
 - **Custom Loading Music** - Found at ReMod/LoadingMusic.ogg
 
@@ -14,7 +12,13 @@
 ## Objects
 - **Object Info** - Prints Pickup Ownership Details To Console
 - **Respawn Objects** - Respawns World Objects
-- **Yeet Info** - Throw Objects with Force
+- **Yeet Objects** - Throw Objects with Force
+- **Object ESP** - Highlights Pickups Within The World
+
+## Movement
+- **Infinite Jump** - Jump to your Heart's Content
+- **Movement Speed Slider** - Adjust Movement  speed
+- **Physiics Gravity Slider ** - Adjust Gravity Physics
 
 ## Player Notifications
 - **Join Notifier** - Basic Join/Leave Notifications
@@ -42,4 +46,9 @@
 - **Notification Text Improvements**
 
 ## Change Log:
+- **1.4.4 - Debug Clock, Object ESP, Movement Sliders, MelonPreferences Category Update**
 - **1.4.3 - Minor updates to Join Notifier Handling**
+
+## Credits:
+- **[Requi](https://github.com/RequiDev) - General Guidance, Code Examples, ReMod.Core**
+- **[Myrkie](https://github.com/Myrkie) - Contributions to the MelonConsole component**
