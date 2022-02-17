@@ -3,6 +3,8 @@
 
 ## Utilities
 ### Core
+- **Debug Info** - Currently adds Date/Day/Time to the Debug Info Panel
+- **Colored Nameplates** - Trust Colored Nameplates
 - **Randomize Ping/FPS** - Randomizes Ping/FPS
 - **Custom Loading Music** - Found at ReMod/LoadingMusic.ogg
 
@@ -17,8 +19,15 @@
 
 ## Movement
 - **Infinite Jump** - Jump to your Heart's Content
+- **Low Gravity** - Lowers Player Gravity
 - **Movement Speed Slider** - Adjust Movement  speed
 - **Physiics Gravity Slider ** - Adjust Gravity Physics
+
+## Console Windows:
+- ~~**Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
+- ~~**Tab Menu** - Enable/Disable Melonloader Console as a Tab Menu~~
+- ~~**Player List** - Enable/Disable Playerlist Console Window on the Left Wing~~
+- ~~**Friend Activity** - Enable/Disable Friend Activity Console~ [Work in Progress]
 
 ## Player Notifications
 - **Join Notifier** - Basic Join/Leave Notifications
@@ -41,11 +50,14 @@
 - **Spoofing causes Movement/IK Delay** - Not Fixable
 
 ## To Do:
-### Join/Leave Notifier Improvement
 - **Notification Sounds**
 - **Notification Text Improvements**
+- **Scrolling Consoles**
+- **BTK Compatibility**
 
 ## Change Log:
+- **1.5.0 - Melonloader Console,  Playerlist, Misc Fixes**
+- **1.4.5 - Debug Clock Toggle, Hide VRCat**
 - **1.4.4 - Debug Clock, Object ESP, Movement Sliders, MelonPreferences Category Update**
 - **1.4.3 - Minor updates to Join Notifier Handling**
 
