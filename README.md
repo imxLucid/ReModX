@@ -23,7 +23,7 @@
 - **Low Gravity** - Lowers Local Player Gravity
 - **Jump Height Slider** - Directly Adjust Your Jump Height
 - **Movement Speed Slider** - Adjust Movement  speed
-- **Physiics Gravity Slider ** - Adjust Gravity Physics (Locally)
+- **Physics Gravity Slider ** - Adjust Gravity Physics (Locally)
 
 ## Console Windows:
 - **Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
