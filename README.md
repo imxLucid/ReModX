@@ -26,10 +26,10 @@
 - **Physiics Gravity Slider ** - Adjust Gravity Physics (Locally)
 
 ## Console Windows:
-- ~~**Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
-- ~~**Tab Menu** - Enable/Disable Melonloader Console as a Tab Menu~~
-- ~~**Player List** - Enable/Disable Playerlist Console Window on the Left Wing~~
-- ~~**Friend Activity** - Enable/Disable Friend Activity Console~ [Work in Progress]
+- **Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
+- **Tab Menu** - Enable/Disable Melonloader Console as a Tab Menu~~
+- **Player List** - Enable/Disable Playerlist Console Window on the Left Wing~~
+- **Friend Activity** - Enable/Disable Friend Activity Console~ [Work in Progress]
 
 ## Player Notifications
 - **Join Notifier** - Basic Join/Leave Notifications
@@ -58,7 +58,7 @@
 - **Join/Leave Notification Sounds**
 - **Notification Text Improvements**
 - **Scrolling Consoles**
-- **BTK Compatibility*
+- **BTK Compatibility**
 
 ## Change Log:
 - **1.5.0 - Melonloader Console, Playerlist, Colored Nameplates,  Misc Fixes/Additions**
