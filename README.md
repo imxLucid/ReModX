@@ -18,10 +18,12 @@
 - **Object ESP** - Highlights Pickups Within The World
 
 ## Movement
+- **Jet Pack** - Continusoly Increase Your Y Velocity
 - **Infinite Jump** - Jump to your Heart's Content
-- **Low Gravity** - Lowers Player Gravity
+- **Low Gravity** - Lowers Local Player Gravity
+- **Jump Height Slider** - Directly Adjust Your Jump Height
 - **Movement Speed Slider** - Adjust Movement  speed
-- **Physiics Gravity Slider ** - Adjust Gravity Physics
+- **Physiics Gravity Slider ** - Adjust Gravity Physics (Locally)
 
 ## Console Windows:
 - ~~**Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
@@ -48,15 +50,18 @@
 
 ## Known Issues:
 - **Spoofing causes Movement/IK Delay** - Not Fixable
+- **Adjusting Physics Gravity may break certain worlds or may be incompatiable with certain mods/features** - No plan to fix
 
 ## To Do:
-- **Notification Sounds**
+- **Better Nameplate Coloring**
+- **Playerlist Text Formatting**
+- **Join/Leave Notification Sounds**
 - **Notification Text Improvements**
 - **Scrolling Consoles**
-- **BTK Compatibility**
+- **BTK Compatibility*
 
 ## Change Log:
-- **1.5.0 - Melonloader Console,  Playerlist, Misc Fixes**
+- **1.5.0 - Melonloader Console, Playerlist, Colored Nameplates,  Misc Fixes/Additions**
 - **1.4.5 - Debug Clock Toggle, Hide VRCat**
 - **1.4.4 - Debug Clock, Object ESP, Movement Sliders, MelonPreferences Category Update**
 - **1.4.3 - Minor updates to Join Notifier Handling**
