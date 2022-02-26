@@ -53,7 +53,7 @@
 - **Adjusting Physics Gravity may break certain worlds or may be incompatiable with certain mods/features** - No plan to fix
 
 ## To Do:
-- **Better Nameplate Coloring**
+- **Improve Nameplate Coloring**
 - **Playerlist Text Formatting**
 - **Join/Leave Notification Sounds**
 - **Notification Text Improvements**
