@@ -69,3 +69,4 @@
 ## Credits:
 - **[Requi](https://github.com/RequiDev) - General Guidance, Code Examples, ReMod.Core**
 - **[Myrkie](https://github.com/Myrkie) - Contributions to the MelonConsole component**
+- **[LouKylor](https://github.com/loukylor) - ~~Stolen~~ Borrowed various bits of code**
