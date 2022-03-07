@@ -61,7 +61,7 @@
 - **BTK Compatibility**
 
 ## Change Log:
-- **1.5.1 - Rebuild fr latest VRChat version**
+- **1.5.2 - Rebuild fr latest VRChat version**
 - **1.5.1 - Console Tab Menu Bugfix**
 - **1.5.0 - Melonloader Console, Playerlist, Colored Nameplates,  Misc Fixes/Additions**
 - **1.4.5 - Debug Clock Toggle, Hide VRCat**
