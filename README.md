@@ -23,7 +23,7 @@
 - **Low Gravity** - Lowers Local Player Gravity
 - **Jump Height Slider** - Directly Adjust Your Jump Height
 - **Movement Speed Slider** - Adjust Movement  speed
-- **Physics Gravity Slider ** - Adjust Gravity Physics (Locally)
+- **Physics Gravity Slider** - Adjust Gravity Physics (Locally)
 
 ## Console Windows:
 - **Main Console** - Enable/Disable Main Melonloader Console on the Right Wing~~
@@ -61,6 +61,7 @@
 - **BTK Compatibility**
 
 ## Change Log:
+- **1.5.3 - Rebuild fr latest VRChat/Melonloader versions**
 - **1.5.2 - Rebuild fr latest VRChat version**
 - **1.5.1 - Console Tab Menu Bugfix**
 - **1.5.0 - Melonloader Console, Playerlist, Colored Nameplates,  Misc Fixes/Additions**
